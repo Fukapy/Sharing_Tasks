@@ -1,3 +1,4 @@
+!pip install rdkit
 import streamlit as st
 from multiapp import MultiApp
 from apps import molform_to_molweight, smiles_to_molweight, smiles_to_molform
